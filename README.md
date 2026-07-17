@@ -1,6 +1,5 @@
 **Light/Dark Theme Switcher Site**
 
-*!WARNING! INCLUDE NSFW CONTENT!*
 
 First attempt in creating site with VisualStudio
 
